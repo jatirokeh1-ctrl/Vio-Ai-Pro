@@ -36,6 +36,14 @@ async function prosesScreenshot() {
         } finally {
             btn.innerText = "Convert ke Kode";
             btn.disabled = false;
-        }
+        }{
+  "name": "vioai-studio",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@vercel/node": "latest"
+  }
+}
+
     };
 }
